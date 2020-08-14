@@ -5,5 +5,13 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+ivy.txt
+  Apache Ivy
+  The agile dependency manager
+  Apache Ivy™ is a popular dependency manager focusing on flexibility and simplicity.
+  Find out more about its unique enterprise features, what people say about it,
+  and how it can improve your build system!
+  --https://ant.apache.org/ivy/
+
 links.txt
-  Apache related links
+  Apache Ivy related links
