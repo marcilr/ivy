@@ -12,5 +12,11 @@ Apache Ivy
 The agile dependency manager
 https://ant.apache.org/ivy/
 
+Apache Ivy Tutortials
+http://ant.apache.org/ivy/history/latest-milestone/tutorial.html
+
 Apache Software Foundation projects
 https://projects.apache.org/
+
+Using Ivy Module Configurations
+http://ant.apache.org/ivy/history/latest-milestone/tutorial/conf.html
