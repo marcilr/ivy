@@ -18,5 +18,8 @@ http://ant.apache.org/ivy/history/latest-milestone/tutorial.html
 Apache Software Foundation projects
 https://projects.apache.org/
 
+How to use Apache ivy to resolve dependency with multiple files?
+https://stackoverflow.com/questions/2395299/how-to-use-apache-ivy-to-resolve-dependency-with-multiple-files
+
 Using Ivy Module Configurations
 http://ant.apache.org/ivy/history/latest-milestone/tutorial/conf.html
