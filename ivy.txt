@@ -1,0 +1,20 @@
+ivy.txt
+Created Fri Aug 14 11:20:25 AKDT 2020
+by Raymond E. Marcil <marcilr@gmail.com>
+
+Apache Ivy
+
+The agile dependency manager
+
+Apache Ivy™ is a popular dependency manager focusing on flexibility and simplicity.
+Find out more about its unique enterprise features, what people say about it,
+and how it can improve your build system!
+--https://ant.apache.org/ivy/
+
+
+Links
+=====
+Apache Ivy
+The agile dependency manager
+https://ant.apache.org/ivy/
+
